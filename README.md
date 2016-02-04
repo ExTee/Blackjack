@@ -6,3 +6,5 @@ The rules of the game are not entirely conventional:
 - The scoring is simply +1 (when you win) and -1 (when you lose), though, I intend to introduce betting soon. 
 - The player loses if they forfeit the hand. 
 Enjoy the game!
+
+Note- This code was submitted by me as a mini-project assignment on a Coursera course "Interactive Programming in Python" by Rice University. If you're taking the same course, I suggest you not to copy-paste my code, rather, write code yourself for then you can actually learn. Thanks!
